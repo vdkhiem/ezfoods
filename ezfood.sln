@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ezfood.webapi", "ezfood.webapi\ezfood.webapi.csproj", "{84AFFD33-D3ED-4862-B6CA-93FD7DE12B15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ezfood.webmvc", "ezfood.webmvc\ezfood.webmvc.csproj", "{CCF60172-7A2B-40C3-9C1E-B290B49E7DF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ezfood.webapp", "ezfood.webapp\ezfood.webapp.csproj", "{5326F65B-8F73-4539-A44D-A51BDE2E0BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84AFFD33-D3ED-4862-B6CA-93FD7DE12B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AFFD33-D3ED-4862-B6CA-93FD7DE12B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AFFD33-D3ED-4862-B6CA-93FD7DE12B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AFFD33-D3ED-4862-B6CA-93FD7DE12B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF60172-7A2B-40C3-9C1E-B290B49E7DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF60172-7A2B-40C3-9C1E-B290B49E7DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF60172-7A2B-40C3-9C1E-B290B49E7DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF60172-7A2B-40C3-9C1E-B290B49E7DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5326F65B-8F73-4539-A44D-A51BDE2E0BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5326F65B-8F73-4539-A44D-A51BDE2E0BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5326F65B-8F73-4539-A44D-A51BDE2E0BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5326F65B-8F73-4539-A44D-A51BDE2E0BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB7EB609-5AE8-4453-90A7-618B0A3D5B0F}
+	EndGlobalSection
+EndGlobal
